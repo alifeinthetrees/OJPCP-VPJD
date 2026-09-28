@@ -1,0 +1,57 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.RDataTmp*
+
+# renv local library/cache
+renv/library/
+renv/staging/
+renv/python/
+
+# Raw/intermediate research data
+data/
+
+# ArcGIS / local spatial workspace
+*.aprx
+Index/
+
+# Databases
+*.duckdb
+*.duckdb.wal
+*.db
+*.sqlite
+*.sqlite3
+
+# Data/reference files stored alongside R scripts
+R/**/*.xlsx
+R/**/*.xls
+R/**/*.csv
+R/**/*.rds
+R/**/*.RData
+
+# Generated outputs
+outputs/
+
+# Backups / archives / comparison outputs
+backups/
+archive/
+drive_comparison_*/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large archives
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
