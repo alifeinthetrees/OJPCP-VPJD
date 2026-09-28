@@ -55,3 +55,9 @@ Thumbs.db
 *.tar
 *.gz
 *.rar
+# Curated legacy source code retained for reproducibility
+!archive/
+!archive/legacy_pipeline/
+!archive/legacy_pipeline/*.R
+!archive/legacy_taxonomy/
+!archive/legacy_taxonomy/*.R
