@@ -61,3 +61,6 @@ Thumbs.db
 !archive/legacy_pipeline/*.R
 !archive/legacy_taxonomy/
 !archive/legacy_taxonomy/*.R
+
+!archive/legacy_taxonomy_builders/
+!archive/legacy_taxonomy_builders/*.R
