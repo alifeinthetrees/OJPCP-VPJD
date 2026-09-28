@@ -177,12 +177,15 @@ run_vpjd_pipeline <- function(
     message("Skipping occurrence cleaning.")
   }
   
-  if (taxonomy) {
-    message(
-      "Occurrence-derived WCVP reconciliation module ",
-      "not yet activated."
-    )
-  }
+if (taxonomy) {
+  source_module(
+    "R",
+    "taxonomy",
+    "00_run_taxonomy_pipeline.R"
+  )
+} else {
+  message("Skipping occurrence-derived WCVP taxonomic reconciliation.")
+}
   
   if (geography) {
     source_module(
@@ -245,7 +248,9 @@ run_vpjd_pipeline <- function(
 # ------------------------------------------------------------------------------
 # Default behaviour
 #
-# At the present development stage we load/test acquisition only.
+# At the present development stage, acquisition and the occurrence-derived
+# WCVP taxonomy pipeline are validated components.
+#
 # Later stages will be enabled as they are individually validated.
 # ------------------------------------------------------------------------------
 
@@ -255,4 +260,4 @@ message("")
 message("Current development command:")
 message("  run_vpjd_pipeline()")
 message("")
-message("This currently activates the GBIF acquisition module only.")
+message("Validated components: acquisition and occurrence-derived WCVP taxonomy.")
