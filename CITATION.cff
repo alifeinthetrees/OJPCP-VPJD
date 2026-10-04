@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these workflows, please cite the archived software release and the relevant VPJD data release."
+title: "Vascular Plants of Japan Database (VPJD): Reproducible Research Workflows"
+type: software
+
+authors:
+  - family-names: "Jones"
+    given-names: "Ben M."
+    affiliation: "University of Oxford Botanic Garden and Arboretum; University of Oxford Department of Biology"
+
+abstract: >-
+  Reproducible R workflows supporting the Vascular Plants of Japan Database
+  (VPJD), developed within the Oxford-Japan Plant Conservation Partnership
+  (OJPCP). The repository provides version-controlled computational workflows
+  for taxonomic reconciliation, data integration, geographic evidence
+  processing, validation, and conservation analyses of the vascular flora
+  of Japan.
+
+repository-code: "https://github.com/alifeinthetrees/OJPCP-VPJD"
+
+license: MIT
+
+keywords:
+  - "Vascular Plants of Japan Database"
+  - "VPJD"
+  - "Oxford-Japan Plant Conservation Partnership"
+  - "OJPCP"
+  - "vascular plants"
+  - "Japan"
+  - "plant conservation"
+  - "taxonomy"
+  - "biogeography"
+  - "biodiversity informatics"
+  - "conservation biology"
+  - "reproducible research"
+  - "R"
