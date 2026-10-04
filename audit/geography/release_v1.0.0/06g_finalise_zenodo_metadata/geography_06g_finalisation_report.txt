@@ -1,0 +1,42 @@
+VASCULAR PLANTS OF JAPAN DATABASE (VPJD)
+GEOGRAPHY RELEASE v1.0.0
+
+ZENODO METADATA FINALISATION REPORT
+
+Build date: 2026-10-02
+Script: geography_06g_finalise_zenodo_metadata.R
+Reserved Geography DOI: 10.5281/zenodo.23111498
+
+INHERITED RELEASE STATUS
+
+06f DATA_RELEASE_READY = TRUE
+
+ADMINISTRATIVE METADATA
+
+Required metadata complete: TRUE
+Unresolved staged placeholders: 0
+Staging SHA-256 checksums complete: TRUE
+Geography DOI reserved: TRUE
+
+FAILED REQUIRED METADATA
+
+None
+
+FINAL STATUS
+
+ZENODO_METADATA_READY = TRUE
+
+SAFEGUARDS
+
+VPJD Taxonomic Release v1.0.0 was not modified.
+Canonical geographic vocabulary was not modified.
+Canonical taxon geographic distribution was not modified.
+Canonical geographic evidence was not modified.
+06f audit products were not modified.
+No taxonomic relationships were generated.
+No geographic relationships were generated.
+No biological absence was inferred.
+No endemicity was inferred.
+No rarity was inferred.
+No Nakamura logic was applied.
+No Star categories were assigned.

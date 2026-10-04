@@ -1,0 +1,15 @@
+"metric","value"
+"taxon_area_rows",613887
+"distinct_taxa",12037
+"distinct_botanical_areas",51
+"duplicate_taxon_area_rows",0
+"taxa_without_occurrence_evidence",567
+"taxa_with_occurrence_evidence",11470
+"single_area_taxa",3061
+"weak_single_area_taxa",2036
+"single_record_taxon_area_cells",28964
+"widespread_taxa_45plus_areas",344
+"genus_level_taxa",856
+"species_infraspecific_nesting_pairs",1682
+"invalid_supported_status_rows",0
+"invalid_no_evidence_status_rows",0

@@ -1,0 +1,14 @@
+"criterion","passed"
+"structural_and_evidence_validation_passed",TRUE
+"canonical_vocabulary_complete",TRUE
+"canonical_vocabulary_fully_named",TRUE
+"canonical_vocabulary_fully_resolved",TRUE
+"canonical_identifiers_unique_and_complete",TRUE
+"canonical_codes_unique_and_complete",TRUE
+"wcvp_provenance_complete",TRUE
+"wcvp_crosswalk_reconciliation_complete",TRUE
+"preintegration_identifier_set_preserved",TRUE
+"japanese_botanical_areas_preserved",TRUE
+"all_identifiers_currently_provisional",TRUE
+"identifier_freeze_not_yet_performed",TRUE
+"eligible_for_deliberate_identifier_freeze",TRUE

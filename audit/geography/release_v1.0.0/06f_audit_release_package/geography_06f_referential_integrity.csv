@@ -1,0 +1,17 @@
+"criterion","value","expected","passed"
+"taxon_identifier_missing_count",0,0,TRUE
+"geographic_identifier_missing_count",0,0,TRUE
+"taxon_identifier_duplicate_count",0,0,TRUE
+"geographic_identifier_duplicate_count",0,0,TRUE
+"distribution_duplicate_relationship_count",0,0,TRUE
+"evidence_duplicate_relationship_count",0,0,TRUE
+"distribution_taxon_orphan_count",0,0,TRUE
+"distribution_geography_orphan_count",0,0,TRUE
+"evidence_taxon_orphan_count",0,0,TRUE
+"evidence_geography_orphan_count",0,0,TRUE
+"distribution_without_evidence_count",0,0,TRUE
+"evidence_without_distribution_count",0,0,TRUE
+"distribution_non_japan_relationship_count",0,0,TRUE
+"evidence_non_japan_relationship_count",0,0,TRUE
+"non_positive_occurrence_evidence_count",0,0,TRUE
+"negative_unique_occurrence_count",0,0,TRUE

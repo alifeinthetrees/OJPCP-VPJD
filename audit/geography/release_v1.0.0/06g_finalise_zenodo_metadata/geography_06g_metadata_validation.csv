@@ -1,0 +1,11 @@
+"field","required_before_deposit","value_present","valid","passed"
+"creator_name",TRUE,TRUE,TRUE,TRUE
+"creator_affiliation",TRUE,TRUE,TRUE,TRUE
+"creator_orcid",TRUE,TRUE,TRUE,TRUE
+"contact_name",TRUE,TRUE,TRUE,TRUE
+"contact_affiliation",TRUE,TRUE,TRUE,TRUE
+"contact_email",TRUE,TRUE,TRUE,TRUE
+"release_licence",TRUE,TRUE,TRUE,TRUE
+"taxonomic_release_doi",TRUE,TRUE,TRUE,TRUE
+"geography_release_doi",TRUE,TRUE,TRUE,TRUE
+"contributors",FALSE,TRUE,TRUE,TRUE

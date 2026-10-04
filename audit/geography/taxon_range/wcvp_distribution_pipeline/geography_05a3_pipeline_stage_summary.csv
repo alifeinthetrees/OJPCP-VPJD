@@ -1,0 +1,5 @@
+"stage","n_csv_tables","total_rows_across_tables","tables_with_taxon_ids","tables_with_geography_fields","tables_with_explicit_units"
+"03b",10,23296,2,5,2
+"03c",13,18455,5,6,1
+"03d",11,4988,3,7,6
+"03r",12,8197,1,8,0

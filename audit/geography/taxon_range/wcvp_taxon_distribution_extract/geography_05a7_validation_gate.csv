@@ -1,0 +1,6 @@
+"criterion","passed"
+"historical_distribution_row_counts_reproduced",TRUE
+"historical_distinct_location_counts_reproduced",TRUE
+"zero_distribution_taxa_accounted_for",TRUE
+"taxon_location_pairs_extracted",TRUE
+"sufficient_for_05b",TRUE

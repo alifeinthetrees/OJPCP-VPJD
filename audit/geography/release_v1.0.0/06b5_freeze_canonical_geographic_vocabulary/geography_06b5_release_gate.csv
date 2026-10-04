@@ -1,0 +1,12 @@
+"criterion","passed"
+"freeze_validation_passed",TRUE
+"all_418_identifiers_frozen",TRUE
+"identifier_values_preserved_exactly",TRUE
+"geographic_codes_preserved_exactly",TRUE
+"geographic_names_preserved_exactly",TRUE
+"concept_structure_preserved_exactly",TRUE
+"resolution_evidence_preserved_exactly",TRUE
+"wcvp_evidence_preserved_exactly",TRUE
+"freeze_provenance_complete",TRUE
+"source_integrated_vocabulary_preserved",TRUE
+"frozen_vocabulary_ready_for_downstream_products",TRUE

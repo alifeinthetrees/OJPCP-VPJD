@@ -64,3 +64,22 @@ Thumbs.db
 
 !archive/legacy_taxonomy_builders/
 !archive/legacy_taxonomy_builders/*.R
+
+# VPJD downstream/development analyses outside current public repository scope
+R/stars/
+R/bioquality/
+
+# Legacy/local geography source material
+R/Geography/*.DBF
+R/Geography/*.dbf
+
+# Downstream Stars/Nakamura/local forensic audit material
+audit/geography/historical_key_geography_trace/
+audit/geography/historical_star_methodology/
+audit/geography/historical_star_outputs/
+audit/geography/historical_star_pipeline/
+audit/geography/I_R_environment/
+audit/geography/key_to_stars/
+audit/geography/nakamura_variables/
+audit/geography/star_evidence/
+audit/geography/wcvp_key_geography/

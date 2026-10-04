@@ -1,0 +1,14 @@
+"file_name","relative_path","n_rows","n_columns"
+"stars03c_china_unit_profile.csv","stars03c_china_unit_profile.csv",7,2
+"stars03c_endemicity_profile.csv","stars03c_endemicity_profile.csv",3,2
+"stars03c_introduced_to_japan.csv","stars03c_introduced_to_japan.csv",1120,25
+"stars03c_introduction_to_japan_profile.csv","stars03c_introduction_to_japan_profile.csv",3,2
+"stars03c_japanese_row_profile.csv","stars03c_japanese_row_profile.csv",3,2
+"stars03c_metadata.csv","stars03c_metadata.csv",16,2
+"stars03c_neighbour_region_profile.csv","stars03c_neighbour_region_profile.csv",6,2
+"stars03c_no_wcvp_distribution.csv","stars03c_no_wcvp_distribution.csv",2,25
+"stars03c_no_wcvp_japan_evidence.csv","stars03c_no_wcvp_japan_evidence.csv",2743,22
+"stars03c_no_wcvp_japanese_row.csv","stars03c_no_wcvp_japanese_row.csv",2723,25
+"stars03c_taxon_wcvp_key_geography.csv","stars03c_taxon_wcvp_key_geography.csv",11439,25
+"stars03c_validation.csv","stars03c_validation.csv",23,2
+"stars03c_wcvp_unit_profile.csv","stars03c_wcvp_unit_profile.csv",367,4

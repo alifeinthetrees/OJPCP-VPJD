@@ -1,0 +1,17 @@
+"source_name","file_type","n_files"
+"GBIF_raw","archive",94
+"Japan_NLNI_N03_2025","documentation_or_metadata",96
+"VPJD_existing_geography","documentation_or_metadata",96
+"Japan_NLNI_N03_2025","other",192
+"VPJD_existing_geography","other",197
+"OJPCP_field_data","script",3
+"Japan_NLNI_N03_2025","spatial_data",96
+"VPJD_existing_geography","spatial_data",108
+"GBIF_development","tabular_data",4
+"GBIF_raw","tabular_data",196
+"OJPCP_field_data","tabular_data",1127
+"VPJD_existing_geography","tabular_data",1
+"VPJD_v1.0.0_audit","tabular_data",1
+"VPJD_v1.0.0_metadata","tabular_data",8
+"VPJD_v1.0.0_provenance","tabular_data",2
+"VPJD_v1.0.0_published_data","tabular_data",4

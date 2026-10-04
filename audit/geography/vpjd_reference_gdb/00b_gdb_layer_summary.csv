@@ -1,0 +1,4 @@
+"layer_name","n_features","n_columns","geometry_types","epsg","crs_name","xmin","ymin","xmax","ymax","taxon_fields","coordinate_fields","botanical_area_fields","occurrence_fields","star_or_range_fields","status_fields"
+"vpjd_prefectures_2025",124094,9,"MULTIPOLYGON",6668,"JGD2011",122.93260636779,20.422746413816,153.986675122859,45.5572434139524,,,"Shape_Area",,,
+"vpjd_japan_land_2025",1,3,"MULTIPOLYGON",6668,"JGD2011",122.93260636779,20.422746413816,153.986675122859,45.5572434139524,,,"Shape_Area",,,
+"vpjd_prefecture_boundaries_2025",47,4,"MULTIPOLYGON",6668,"JGD2011",122.93260636779,20.422746413816,153.986675122859,45.5572434139524,,,"Shape_Area",,,

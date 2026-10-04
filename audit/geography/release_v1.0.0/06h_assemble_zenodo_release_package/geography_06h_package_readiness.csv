@@ -1,0 +1,2 @@
+"release","build_date","geography_release_doi","taxonomic_release_doi","core_release_files","total_package_files","total_package_size_bytes","total_package_size_mb","source_copy_integrity","package_structure_valid","no_zero_byte_files","doi_metadata_valid","zenodo_package_ready"
+"VPJD Geography v1.0.0","2026-10-02","10.5281/zenodo.23111498","10.5281/zenodo.23017356",14,16,57769157,55.093,TRUE,TRUE,TRUE,TRUE,TRUE

@@ -1,0 +1,53 @@
+VASCULAR PLANTS OF JAPAN DATABASE (VPJD)
+GEOGRAPHY RELEASE v1.0.0
+
+ZENODO RELEASE-PACKAGE ASSEMBLY REPORT
+
+Build date: 2026-10-02
+Script: geography_06h_assemble_zenodo_release_package.R
+Geography Release DOI: 10.5281/zenodo.23111498
+Related Taxonomic Release DOI: 10.5281/zenodo.23017356
+
+PACKAGE
+
+Package directory: I:/R/OJPCP/VPJD-OJPCP/data/derived/geography/release_v1.0.0/zenodo_package_v1.0.0
+Core release files: 14
+Total package files: 16
+Total package size (bytes): 57769157
+Total package size (MiB): 55.093
+
+INTEGRITY
+
+Source/copy SHA-256 identity: TRUE
+Source/copy byte-size identity: TRUE
+Expected package files complete: TRUE
+No unexpected package files: TRUE
+No zero-byte package files: TRUE
+
+IDENTIFIERS
+
+Geography DOI matches final metadata: TRUE
+Taxonomic DOI matches final metadata: TRUE
+
+FAILED CHECKS
+
+None
+
+FINAL STATUS
+
+ZENODO_PACKAGE_READY = TRUE
+
+SAFEGUARDS
+
+Package assembly copied source files without scientific transformation.
+VPJD Taxonomic Release v1.0.0 was not modified.
+Canonical geographic vocabulary was not modified.
+Canonical taxon geographic distribution was not modified.
+Canonical geographic evidence was not modified.
+No identifiers were repaired.
+No taxon-area relationships were generated or repaired.
+No biological absence was inferred.
+No endemicity was inferred.
+No rarity was inferred.
+No Nakamura logic was applied.
+No Star categories were assigned.
