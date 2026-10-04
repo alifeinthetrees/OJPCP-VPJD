@@ -103,6 +103,12 @@ VPJD uses explicit validation and release gates, provenance documentation,
 release manifests and SHA-256 checksums to support reproducibility and data
 integrity.
 
+### Taxonomic reconciliation
+
+The staged procedure used to reconcile occurrence-derived source concepts
+against WCVP and construct the VPJD v1.0.0 recognised taxonomic backbone is
+documented in [`docs/TAXONOMIC_RECONCILIATION.md`](docs/TAXONOMIC_RECONCILIATION.md).
+
 The GitHub repository contains the analytical workflows and development
 history. Frozen, citable research datasets are published separately through
 Zenodo.
