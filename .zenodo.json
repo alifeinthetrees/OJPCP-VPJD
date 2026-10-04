@@ -1,0 +1,47 @@
+{
+  "title": "Vascular Plants of Japan Database (VPJD): Reproducible Research Workflows",
+  "description": "Reproducible R workflows supporting the Vascular Plants of Japan Database (VPJD), developed within the Oxford–Japan Plant Conservation Partnership (OJPCP). The repository contains version-controlled computational workflows for taxonomic reconciliation, data integration, geographic evidence processing, validation, and conservation analyses of the vascular flora of Japan. It accompanies the independently archived VPJD data releases and provides the computational framework supporting reproducibility, transparency, and reuse.",
+  "creators": [
+    {
+      "name": "Jones, Ben M.",
+      "affiliation": "University of Oxford Botanic Garden and Arboretum; University of Oxford Department of Biology"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "Vascular Plants of Japan Database",
+    "VPJD",
+    "Oxford-Japan Plant Conservation Partnership",
+    "OJPCP",
+    "vascular plants",
+    "Japan",
+    "plant diversity",
+    "plant conservation",
+    "taxonomy",
+    "biogeography",
+    "biodiversity informatics",
+    "conservation biology",
+    "reproducible research",
+    "R"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.23017357",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.23111498",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vpjd"
+    }
+  ]
+}
