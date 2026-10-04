@@ -1,0 +1,10 @@
+"source_name","source_class","canonical_status","n_files"
+"Japan_NLNI_N03_2025","administrative_geography","audit_source",384
+"VPJD_existing_geography","existing_geographic_data","audit_source",402
+"OJPCP_field_data","field_data","audit_source",1130
+"GBIF_raw","occurrence_data","audit_source",290
+"GBIF_development","development_test_data","development_only",4
+"VPJD_v1.0.0_audit","published_audit","immutable_reference",1
+"VPJD_v1.0.0_metadata","published_metadata","immutable_reference",8
+"VPJD_v1.0.0_provenance","published_provenance","immutable_reference",2
+"VPJD_v1.0.0_published_data","published_taxonomic_baseline","immutable_reference",4

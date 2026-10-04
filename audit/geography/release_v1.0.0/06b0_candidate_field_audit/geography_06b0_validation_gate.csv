@@ -1,0 +1,13 @@
+"criterion","passed"
+"06b_validation_passed",TRUE
+"candidate_field_table_loaded",TRUE
+"raw_unit_table_loaded",TRUE
+"canonical_unit_table_loaded",TRUE
+"source_crosswalk_loaded",TRUE
+"all_candidate_fields_profiled",TRUE
+"raw_unit_records_accounted_for",TRUE
+"all_fields_have_disposition",TRUE
+"all_unresolved_units_traced",TRUE
+"audit_did_not_modify_06b_outputs",TRUE
+"no_geographic_units_automatically_excluded",TRUE
+"published_vpjd_not_modified",TRUE

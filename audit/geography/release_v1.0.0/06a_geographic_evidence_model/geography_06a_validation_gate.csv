@@ -1,0 +1,16 @@
+"criterion","passed"
+"project_root_exists",TRUE
+"published_vpjd_root_exists",TRUE
+"published_vpjd_data_root_exists",TRUE
+"recognised_taxa_file_exists",TRUE
+"canonical_taxon_cardinality_12037",TRUE
+"geographic_search_roots_found",TRUE
+"candidate_files_inventoried",TRUE
+"csv_schema_audit_completed",TRUE
+"bounded_csv_sampling_used",TRUE
+"no_source_data_modified",TRUE
+"no_missing_geography_interpreted_as_absence",TRUE
+"historical_star_assignments_not_used_as_geographic_truth",TRUE
+"nakamura_predicates_not_used_to_define_release_geography",TRUE
+"redistribution_rights_not_assumed",TRUE
+"published_vpjd_not_modified",TRUE

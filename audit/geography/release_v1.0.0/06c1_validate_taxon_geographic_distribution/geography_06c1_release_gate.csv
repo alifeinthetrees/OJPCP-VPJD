@@ -1,0 +1,13 @@
+"criterion","passed"
+"all_independent_validation_criteria_passed",TRUE
+"canonical_distribution_validated",TRUE
+"canonical_evidence_validated",TRUE
+"distribution_evidence_relationship_sets_identical",TRUE
+"taxonomic_referential_integrity_complete",TRUE
+"geographic_referential_integrity_complete",TRUE
+"positive_evidence_semantics_validated",TRUE
+"taxa_without_evidence_reconstructed",TRUE
+"unsupported_combinations_reconstructed",TRUE
+"absence_not_asserted",TRUE
+"release_products_unchanged_by_validation",TRUE
+"ready_for_release_metadata_stage",TRUE

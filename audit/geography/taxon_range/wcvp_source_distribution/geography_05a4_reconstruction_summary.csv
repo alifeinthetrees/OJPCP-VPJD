@@ -1,0 +1,11 @@
+"metric","value"
+"historical_scripts_expected",2
+"historical_scripts_found",2
+"source_reference_lines",529
+"candidate_project_files",270
+"candidate_csv_files",203
+"candidate_csvs_with_taxon_ids",88
+"candidate_csvs_with_geography_fields",17
+"candidate_csvs_with_explicit_units",3
+"candidate_csvs_with_taxon_ids_and_explicit_units",0
+"strongest_candidate_identified",1

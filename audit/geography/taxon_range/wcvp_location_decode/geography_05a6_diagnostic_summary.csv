@@ -1,0 +1,8 @@
+"criterion","result"
+"wcvp_location_ids_present",TRUE
+"all_location_values_numeric",TRUE
+"all_location_values_integer",TRUE
+"all_location_values_le_distribution_rows",TRUE
+"field_behaves_like_count",TRUE
+"historical_creation_code_found",TRUE
+"candidate_upstream_taxon_location_source_found",FALSE

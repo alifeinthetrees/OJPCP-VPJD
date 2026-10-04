@@ -1,0 +1,5 @@
+"file_name","full_path","exists","size_bytes"
+"vpjd_taxon_botanical_area_distribution.csv","I:/R/OJPCP/VPJD-OJPCP/data/derived/geography/vpjd_taxon_botanical_area_distribution.csv",TRUE,107152904
+"vpjd_taxon_geography_summary.csv","I:/R/OJPCP/VPJD-OJPCP/data/derived/geography/vpjd_taxon_geography_summary.csv",TRUE,1935007
+"vpjd_botanical_area_taxon_summary.csv","I:/R/OJPCP/VPJD-OJPCP/data/derived/geography/vpjd_botanical_area_taxon_summary.csv",TRUE,1900
+"geography_03_occurrence_ids_not_in_published_vpjd.csv","I:/R/OJPCP/VPJD-OJPCP/audit/geography/taxon_distribution/geography_03_occurrence_ids_not_in_published_vpjd.csv",TRUE,1495

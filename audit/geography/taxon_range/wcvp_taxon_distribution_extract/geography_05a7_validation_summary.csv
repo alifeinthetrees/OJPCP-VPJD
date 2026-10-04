@@ -1,0 +1,15 @@
+"metric","value"
+"historical_taxa",11439
+"historical_taxa_recovered_from_raw",11437
+"historical_taxa_not_recovered",2
+"raw_wcvp_distribution_rows",1995338
+"vpjd_linked_distribution_rows",382224
+"distinct_vpjd_linked_taxa",11437
+"distinct_taxon_location_pairs",382224
+"distinct_wcvp_location_ids",367
+"distribution_row_counts_matching",11439
+"distribution_row_counts_not_matching",0
+"location_counts_matching",11439
+"location_counts_not_matching",0
+"pct_distribution_row_counts_matching",100
+"pct_location_counts_matching",100

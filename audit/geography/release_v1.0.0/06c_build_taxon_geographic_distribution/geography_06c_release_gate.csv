@@ -1,0 +1,13 @@
+"criterion","passed"
+"all_validation_criteria_passed",TRUE
+"distribution_contains_positive_relationships_only",TRUE
+"evidence_product_contains_positive_relationships_only",TRUE
+"distribution_cardinality_matches_audited_evidence",TRUE
+"taxonomic_foreign_key_integrity_complete",TRUE
+"geographic_foreign_key_integrity_complete",TRUE
+"distribution_relationship_keys_unique",TRUE
+"unsupported_combinations_excluded",TRUE
+"absence_not_asserted",TRUE
+"published_taxonomic_release_preserved",TRUE
+"frozen_geographic_vocabulary_preserved",TRUE
+"ready_for_independent_06c1_validation",TRUE

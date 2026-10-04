@@ -1,0 +1,13 @@
+"metric","value"
+"06a_source_products_considered",11
+"csv_source_products",10
+"candidate_geographic_fields",11
+"source_files_with_candidate_fields",5
+"source_read_failures",0
+"raw_source_unit_records",2218
+"normalised_unit_keys",1142
+"canonical_geographic_units",1142
+"unresolved_unit_types",672
+"ambiguous_normalised_labels",0
+"units_requiring_review",0
+"source_crosswalk_rows",2218

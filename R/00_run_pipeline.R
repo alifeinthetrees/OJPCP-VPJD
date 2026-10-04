@@ -56,10 +56,7 @@ required_directories <- c(
   here::here("R", "acquisition"),
   here::here("R", "cleaning"),
   here::here("R", "taxonomy"),
-  here::here("R", "stars"),
   here::here("R", "geography"),
-  here::here("R", "bioquality"),
-  here::here("R", "spatial"),
   here::here("R", "audit"),
   here::here("R", "functions"),
   here::here("data", "raw"),
@@ -147,9 +144,6 @@ run_vpjd_pipeline <- function(
     clean = FALSE,
     taxonomy = FALSE,
     geography = FALSE,
-    stars = FALSE,
-    bioquality = FALSE,
-    spatial = FALSE,
     audit = FALSE) {
   
   message("")
@@ -196,37 +190,7 @@ if (taxonomy) {
   } else {
     message("Skipping geographic processing.")
   }
-  
-  if (stars) {
-    source_module(
-      "R",
-      "stars",
-      "05_star_lookup.R"
-    )
-  } else {
-    message("Skipping Star processing.")
-  }
-  
-  if (bioquality) {
-    source_module(
-      "R",
-      "bioquality",
-      "06_ghi.R"
-    )
-  } else {
-    message("Skipping bioquality analysis.")
-  }
-  
-  if (spatial) {
-    source_module(
-      "R",
-      "spatial",
-      "07_distribution_maps.R"
-    )
-  } else {
-    message("Skipping spatial analysis.")
-  }
-  
+
   if (audit) {
     source_module(
       "R",

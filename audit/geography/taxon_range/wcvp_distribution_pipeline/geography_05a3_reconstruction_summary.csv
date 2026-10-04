@@ -1,0 +1,11 @@
+"metric","value"
+"pipeline_directories",4
+"pipeline_files",46
+"pipeline_csv_tables",46
+"readable_csv_tables",46
+"tables_with_taxon_identifiers",11
+"tables_with_explicit_geographic_units",9
+"taxon_plus_explicit_unit_candidate_tables",2
+"probable_taxon_x_unit_long_tables",1
+"distinct_tdwg_units_recovered",367
+"historical_r_scripts_with_pipeline_references",22

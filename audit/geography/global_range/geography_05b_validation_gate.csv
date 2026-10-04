@@ -1,0 +1,6 @@
+"criterion","passed"
+"published_backbone_cardinality_preserved",TRUE
+"global_taxon_location_pairs_unique",TRUE
+"global_location_reference_complete",TRUE
+"global_location_reference_unambiguous",TRUE
+"sufficient_for_05c",TRUE

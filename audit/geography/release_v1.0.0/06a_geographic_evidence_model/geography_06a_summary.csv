@@ -1,0 +1,13 @@
+"metric","value"
+"canonical_vpjd_taxa",12037
+"candidate_data_files",461
+"csv_files_profiled",428
+"csv_fields_profiled",6487
+"taxon_identifier_candidate_fields",202
+"taxon_name_candidate_fields",160
+"geography_candidate_fields",1629
+"provenance_candidate_fields",1024
+"high_relevance_products",148
+"review_relevance_products",105
+"duckdb_assets",1
+"geospatial_assets",0

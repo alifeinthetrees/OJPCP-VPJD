@@ -1,0 +1,14 @@
+"metric","value"
+"historical_summary_rows",11439
+"distinct_taxa_in_historical_summary",11439
+"summary_rows_with_wcvp_location_ids",11439
+"raw_reconstructed_taxon_location_rows",11439
+"unique_reconstructed_taxon_location_pairs",11439
+"distinct_taxa_with_reconstructed_locations",11439
+"distinct_reconstructed_location_ids",302
+"known_reference_location_ids",367
+"known_reference_units_recovered",0
+"unknown_reconstructed_location_ids",302
+"validated_taxon_location_pairs",0
+"unvalidated_taxon_location_pairs",11439
+"pct_taxon_location_pairs_validated",0
